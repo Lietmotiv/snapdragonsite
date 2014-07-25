@@ -1,0 +1,42 @@
+.site-header h1 a
+{
+    background: transparent url("/images/header/logo502.png") no-repeat;
+    background-size: 251px 88px;
+}
+
+.menu h2
+{
+    background: transparent url("/images/header/logo502.png") no-repeat;
+    background-size: 251px 88px;
+}
+
+.social-links a
+{
+    background: transparent url("http://www.fifteen.net/scripts/css/../../images/social-links@2x.png") no-repeat;
+    background-size: 35px 105px;
+}
+
+a.OT_Find_a_Table:link, a.OT_Find_a_Table:visited, a.OT_Find_a_Table:hover, a.OT_Find_a_Table:active
+{
+    background: #f9f8f2 url("http://www.fifteen.net/scripts/css/../../images/btn-toptable@2x.png") no-repeat !important;
+    background-size: 135px 23px !important;
+}
+
+@media only screen and (min-width: 600px)
+{
+    .site-header h1 a
+    {
+    background: transparent url("/images/header/logo928.png") no-repeat;
+        background-size: 464px 164px;
+    }
+}
+
+@media only screen and (min-width: 1040px)
+{
+    .nav-wrapper .tiny-logo
+    {
+    background: transparent url("/images/header/logo240.png") no-repeat;
+        background-size: 120px 40px;
+    }
+}/* CSS Document */
+

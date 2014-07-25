@@ -1,0 +1,82 @@
+/* COLUMNS ============================================================================= */
+.col-right
+{
+    float: right;
+    margin-bottom: 0;
+    width: 38%;
+}
+
+.col-left
+{
+    float: left;
+    width: 50%;
+}
+
+.alt-block .col-left
+{
+    margin-bottom: 0;
+    width: 45%;
+}
+
+.alt-block .col-right
+{
+    width: 50%;
+}
+
+
+/* IMAGE BLOCKS ============================================================================= */
+.image-block
+{
+    height: 460px;
+	
+	
+}
+    
+    .image-block span
+    {
+        height: 460px;
+    }
+    
+
+
+/* FOOD ============================================================================= */
+.menu
+{
+    margin: 0 auto;
+}
+
+.menu-table tr td:first-child
+{
+    padding-right: 0;
+}
+
+
+/* CONTACT ============================================================================= */
+#map
+{
+    height: 350px;
+}
+
+.social-links
+{
+    position: absolute;
+    left: 50%;
+    bottom: 30px;
+    margin-top: 0;
+    width: 50%;
+}
+    
+    .social-links ul
+    {
+        float: right;
+    }
+    
+    .social-links p
+    {
+        float: left;
+    }
+    
+.reservation-widget
+{
+    float: right;
+}
